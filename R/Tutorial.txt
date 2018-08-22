@@ -2,7 +2,7 @@ R Tutorials
 https://kingaa.github.io/R_Tutorial/
 
 Datacamp - https://www.cyclismo.org/tutorial/R/
-
+https://www.guru99.com/r-tutorial.html
 
 https://github.com/qinwf/awesome-R#language-api
 https://github.com/qinwf/awesome-R
